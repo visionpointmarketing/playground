@@ -5,11 +5,18 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@ninetailed/client-sdk-gatsby-contentful": "^0.7.0",
+    "@ninetailed/experience.js-gatsby": "^3.13.1",
+    "@ninetailed/experience.js-utils": "^3.13.1",
+    "@ninetailed/gatsby-plugin-ninetailed": "^1.1.0-alpha.2",
     "gatsby": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
+    "gatsby-plugin-netlify": "^5.1.0",
     "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-source-contentful": "^8.11.0",
     "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
